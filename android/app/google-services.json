@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926027508746",
+    "firebase_url": "https://santochope-870c2.firebaseio.com",
+    "project_id": "santochope-870c2",
+    "storage_bucket": "santochope-870c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926027508746:android:40d5db23288b7bb5cf43f3",
+        "android_client_info": {
+          "package_name": "com.gustavo.santo_chope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926027508746-oj710d72h59ltuu1bnansqu6eoetdlq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspUDtozq0RDRvLonGBwRnnS8FtYfQzvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926027508746-oj710d72h59ltuu1bnansqu6eoetdlq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
